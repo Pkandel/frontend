@@ -1,0 +1,24 @@
+.text-field{
+    .text-field-input {
+        input {
+            width: 100%;
+            border: none;
+            font-size: 16px;
+            border-bottom: 1px solid #e4e4e2;
+            outline: none;
+            padding-left:10px;
+            padding-top: 10px;
+            min-height: 30px;
+            vertical-align: bottom;
+        }
+        input:focus {
+            font-size: 12px;
+            transition: 0.3s;
+        }
+        
+    }
+    .feedback {
+    
+    }
+
+}
